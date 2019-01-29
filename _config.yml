@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-url: https://fengxizh.github.io/fengl/
-root: /fengl.github.io/
+url: https://fengxizh.github.io/flfx.github.io/
+root: /flfx.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
