@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+url: https://fengxizh.github.io/fengl/
+root: /fengl.github.io/
+permalink: :year/:month/:day/:title/
+permalink_defaults:
